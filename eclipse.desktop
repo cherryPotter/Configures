@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=eclipse
+Exec=eclipse
+Terminal=false
+Icon=/usr/share/eclipse/icon.xpm
+Type=Application
+Categories=Development
